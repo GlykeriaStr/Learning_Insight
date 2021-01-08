@@ -1,7 +1,9 @@
 # Learning_Insight
 
-## Course goals
+This will be a learning diary of my time at Makers so I can track my own development.
 
+I will document my goals and work as well as completed challenges and everything that I have learnt through the course.
+## **Goals**
 ## I can make software
 * I can TDD anything
 * I can program fluently
