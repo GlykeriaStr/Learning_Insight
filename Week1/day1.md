@@ -9,7 +9,7 @@ No goals for today
     * Try and have a Growth Mindset, it will help a lot in the course but also in life
     * This is a marathon, not a sprint. I should pace myself.
     * Check in with myself, feel how I feel, acknowledge it and not try to change it
-    * It's better to overcommunicate than undercommunicate
+    * It's better to over-communicate than under-communicate
     * Being self-lead doesn't mean I have to do everything on my own. Ask for help from cohort and coaches
     * Trust the process
     * Try and enjoy it
