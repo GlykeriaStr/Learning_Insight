@@ -1,8 +1,8 @@
 # Day 2
 
 ##Goals
- * [] TDD
- * [] Pair programming
+ * TDD
+ * Pair programming
 
 ## Thoughts on Day 2
   * Today we did our first workshop on debugging. I felt really confident after it. Learned about stack trace and how to follow an error message to get to the bug.

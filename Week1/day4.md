@@ -1,9 +1,9 @@
 # Day 4
 
 ## Goals
-* [] Do an easier TDD
-* [] Focus on the workshop on TDD
-* [] Pair programming
+* Do an easier TDD
+* Focus on the workshop on TDD
+* Pair programming
 
 ## Thoughts on Day 4
 * The workshop helped me understand why we use TDD, why we write tests and why we write them first

@@ -1,9 +1,9 @@
 # Day 3
 
 ## Goals
-  * [] More TDD
-  * [] Read about encapsulating
-  * [] Pairing programming
+  * More TDD
+  * Read about encapsulating
+  * Pair programming
 
 ## Thoughts on day 3
   * Even though I understand the importance of TDD, I'm struggling how to connect RSpec with the code
