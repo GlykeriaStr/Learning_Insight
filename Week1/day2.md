@@ -1,6 +1,6 @@
 # Day 2
 
-##Goals
+## Goals
  * TDD
  * Pair programming
 

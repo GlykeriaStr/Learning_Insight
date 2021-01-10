@@ -1,6 +1,6 @@
 # Day 1
 
-##Goals
+## Goals
 No goals for today
 
 ## Thoughts on Day 1
