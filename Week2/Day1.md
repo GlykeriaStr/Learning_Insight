@@ -11,7 +11,6 @@
 
   * Oystercard challenge
 
-
 ## Thoughts on Week 2, Day 1
   * Today we did our first code review and learned why it's important to review each other's code
     * It helps us learn from each other by seeing other ways to solve a problem, learning new techniques
