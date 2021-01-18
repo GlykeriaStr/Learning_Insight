@@ -1,13 +1,6 @@
 # Day 1
 
 ## Goals
-  * By the end of the week all developers can:
-
-    * Build a simple web app
-    * Follow an effective debugging process for web applications
-    * Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS)
-    * Explain the MVC pattern
-
   * The goals for today is to try and be less hard on myself
 
 
@@ -18,3 +11,4 @@
   * Today we had our first meeting with Eoin, as we are starting this week to learn how to build a web app.
   * The pairing today was a bit different than other times because it was more learning a new language than TDDing.
   * I hope that by the end of this week I feel better about what I know and less impostor-like.
+  * "The responsibility of my class is ___ and __". When you get the "and" it's a good time to rethink your class and if it needs splitting. 
