@@ -11,5 +11,21 @@
 
 ## Challenges
 
-  * Afternoons - Battle
-  * End of unit - RPS
+* [Afternoons - Battle](https://github.com/makersacademy/course/tree/master/intro_to_the_web)
+* [End of unit - RPS](https://github.com/makersacademy/rps-challenge)
+
+## Practicals
+
+* [Servers](https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/servers.md)
+* [Clients](https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/clients.md)
+* [HTTP Servers](https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/http_servers.md)
+* [Build a birthday greeter app (small project)](https://github.com/makersacademy/course/blob/master/intro_to_the_web/post_challenges/birthday_app.md)
+
+## Resources
+
+* [Technical Learning Resources](https://airtable.com/shrlqxQm2BeUDvFyp/tblokmw6yNUO75ge6?blocks=hide)
+
+## Skills workshops
+
+* [Modelling the request/response cycle](https://github.com/makersacademy/skills-workshops/tree/master/how_the_web_works/process_modelling)
+* [Debugging 2](https://github.com/makersacademy/skills-workshops/tree/master/how_the_web_works/debugging_2)

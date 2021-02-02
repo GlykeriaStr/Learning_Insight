@@ -1,7 +1,7 @@
 # Day 4
 
 ## Goals
-* Attended Workshop for Database Domain Model Diagramming
+* SQL zoo
 * Afternoon challenge - pairing
 
 ## Thoughts on Week 4/ Day 4
