@@ -7,6 +7,7 @@
 
 ## Thoughts on Week 7 / Day 1
 * The code review went well. I added one more thing to my code when there is a double strike.
+* $0 : reference to the element that is selected (console)
 * This week I'm a bit worried. I don't feel very confident with Javascript and definitely not confident with interface.
 * I would like to look into interface a bit more
 * The afternoon went well. Writing our own tests wasn't as hard as I expected
